@@ -1,5 +1,5 @@
-## README
-# Technical-challenge-Poo
+# README
+## Technical-challenge-Poo
 
 1. Crear una clase abstracta llamda PlanoADA, y adicionar los atributos y métodos que crear convenniente, crear un método abstracto publiciad()
 2. Crear dos clases diferentes (ApartamentoModelo1, ApartamentoModelo2) que hereden de planoADA  
